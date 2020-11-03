@@ -13,7 +13,7 @@ export default function Home() {
             <br />
             Oferecemos a correção da sua redação e também um conjunto de
             ferramentas que irão auxiliá-lo em toda sua evolução. Mesmo que você
-            seja um craque na escrita, para atingir uma nota mil, é sempre
+            seja um "craque" na escrita, para atingir uma nota mil, é sempre
             necessário praticar. Por isso, desenvolvemos uma plataforma
             aprimorada para corrigir e definir metas de escrita, notas e um
             plano de estudo.
