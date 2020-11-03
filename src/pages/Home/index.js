@@ -23,9 +23,9 @@ export default function Home() {
             <br />
             <br />
             Temos um ótimo professor de correção, pois valorizamos muito o
-            trabalho de correção. O professor Thiago Tadeu (Sagat) irá corrigir
-            sua redação e lhe oferecer um feedback do que você precisa melhorar
-            ou manter na sua redação.
+            trabalho de correção. O professor Thiago Sagat irá corrigir sua
+            redação e lhe oferecer um feedback do que você precisa melhorar ou
+            manter na sua redação.
           </span>
         </div>
         <img src={sagatinho} alt="Sagat" width="250px" />
@@ -37,13 +37,12 @@ export default function Home() {
 
         <div>
           <span>
-            Ao se cadastrar no site, é necessário que o corretor Thiago Tadeu
-            (Sagat) te adicione aos alunos dele, para você conseguir enviar as
-            redações para ele corrigir. Por isso recomendamos que ao se
-            cadastrar no site entre em contato com o Thiago via Email ou
-            WhatsApp, para que vocês entrem em um acordo. Ao fecharem o acordo,
-            o aluno tem o direito de enviar as redações e consequentemente o
-            Thiago corrigi-la.
+            Ao se cadastrar no site, é necessário que o corretor Thiago Sagat te
+            adicione aos alunos dele, para você conseguir enviar as redações
+            para ele corrigir. Por isso recomendamos que ao se cadastrar no site
+            entre em contato com o Thiago via Email, para que vocês entrem em um
+            acordo. Ao fecharem o acordo, o aluno tem o direito de enviar as
+            redações e consequentemente o Thiago corrigi-la.
           </span>
         </div>
       </Help>
