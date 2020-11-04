@@ -38,7 +38,8 @@ export default function Home() {
             cursos à distância no Grupo de Estudo de Educação a Distância -
             GEEAD do Centro Paula Souza. Onde o foco do cliente é revisar textos
             e ensinar aos alunos como produzir uma redação nota 1000 para que se
-            saiam bem no Enem.
+            saiam bem no Enem. Qualquer duvida entre em contado com ele:
+            thiago.sagat@gmail.com
           </span>
         </div>
         <img src={sagat2} alt="Sagat" width="150px" />

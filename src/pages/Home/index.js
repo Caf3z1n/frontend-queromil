@@ -40,9 +40,10 @@ export default function Home() {
             Ao se cadastrar no site, é necessário que o corretor Thiago Sagat te
             adicione aos alunos dele, para você conseguir enviar as redações
             para ele corrigir. Por isso recomendamos que ao se cadastrar no site
-            entre em contato com o Thiago via Email, para que vocês entrem em um
-            acordo. Ao fecharem o acordo, o aluno tem o direito de enviar as
-            redações e consequentemente o Thiago corrigi-la.
+            entre em contato com o Thiago através do email
+            thiago.sagat@gmail.com, para que vocês entrem em um acordo. Ao
+            fecharem o acordo, o aluno tem o direito de enviar as redações e
+            consequentemente o Thiago corrigi-la.
           </span>
         </div>
       </Help>
