@@ -1,7 +1,7 @@
 import React from 'react';
 
-import sagat from '~/assets/sagat.jpeg';
-import sagat2 from '~/assets/sagat2.jpeg';
+import sagat from '~/assets/sagat.jpg';
+import sagat2 from '~/assets/sagat2.jpg';
 import { Container, Content, Content2 } from './styles';
 
 export default function Home() {

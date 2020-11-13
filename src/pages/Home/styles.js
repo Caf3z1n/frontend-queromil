@@ -24,8 +24,8 @@ export const Welcome = styled.div`
 
     span {
       font-size: 16px;
-      font-weight: bold;
       color: #fff;
+      text-align: justify;
     }
   }
 `;
@@ -60,8 +60,8 @@ export const Help = styled.div`
 
     span {
       font-size: 16px;
-      font-weight: bold;
       color: #fff;
+      text-align: justify;
     }
   }
 `;

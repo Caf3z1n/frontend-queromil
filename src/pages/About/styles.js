@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-  max-width: 800px;
+  max-width: 900px;
   margin: 50px auto;
 
   display: flex;
@@ -48,6 +48,7 @@ export const Content = styled.div`
     span {
       font-size: 16px;
       color: #fff;
+      text-align: justify;
     }
   }
 `;
@@ -75,6 +76,7 @@ export const Content2 = styled.div`
     span {
       font-size: 16px;
       color: #fff;
+      text-align: justify;
     }
   }
 `;
